@@ -1,0 +1,29 @@
+{
+	"name":"John",
+	"age":"30",
+	"phone":"123456",
+	"city":["Hanoi","HCM", "Danang"],
+	"address":{
+		"streetAddress":"xyz",
+		"houseNum":"24D",
+		"city":"Hongkong",
+		"state":"Vietnam",
+		"number":{
+			"landline":"123",
+			"mobile":"345"
+		},
+		"postalCode":"10021"
+
+	},
+	"phoneNumber":
+	[
+		{
+			"type":"home",
+			"number":"212555"
+		},
+		{
+			"type":"fax",
+			"number":"555121"
+		}
+	]
+}
